@@ -123,7 +123,7 @@
 #include "TouchCheckBox.h"
 
 #include "CClassFactory.h"
-#include <functional>
+
 //UnknownElement
 
 UILIB_API void WINAPI DumpDuiTree(DirectUI::Element *, int);
